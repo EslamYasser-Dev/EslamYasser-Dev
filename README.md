@@ -1,50 +1,76 @@
-<h1 align="center">Hi 👋, I'm Eslam Yasser</h1>
-<h3 align="center">🚀 Software Engineer | IoT & Cloud Specialist | 1+ YoE</h3>
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BCF7&center=true&vCenter=true&width=800&height=50&lines=Hi+👋,+I'm+Eslam+Yasser;🚀+Software+Engineer+%7C+IoT+%26+Cloud+Specialist+%7C+1%2B+YoE" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/eslamyasser" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslamyasser" height="30" width="40" />
+  <a href="https://linkedin.com/in/eslamyasser" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/EslamYasser" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=EslamYasser&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  </a>
+</p>
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=EslamYasser&theme=radical&border_radius=4.5)
+  
+</div>
+
+---
+
+### 🔥 **Technical Arsenal**
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT-0077B6?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Industry_4.0-4A148C?style=flat&logo=robot&logoColor=white" />
+</p>
+
+---
+
+### 🏅 **Key Achievements**
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/eslamyasser/credentials" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Certified-DF3800?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure Certified"/>
+  </a>
+  <a href="https://developers.google.com/profile/u/eslamyasser" target="_blank">
+    <img src="https://img.shields.io/badge/Google_IT_Top_30-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Challenge"/>
   </a>
 </p>
 
 ---
 
-**🔧 Technical Focus**  
-`IoT Systems` `Azure Cloud` `Flutter` `AI/ML` `Full-Stack`  
-Building industrial IoT solutions for Industry 4.0 | Top 30 Global Google IT Challenge  
+### 🛠️ **Tech Stack Superpowers**
 
-**🏆 Key Highlights**  
-- Certified **Azure Data Science & AI Engineer** (Microsoft)  
-- Developed production-grade solutions at **Greenmea** (Software Engineer)  
-- Quality Assurance Architect @ **Rotografia**  
-- **IoT Specialization** graduate @ ITI Code Camp  
+#### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-**🚀 Current Projects**  
-- 🔭 Industrial 4.0 IoT implementations  
-- 👯 Seeking large-scale IoT collaborations  
+#### 📱 Mobile & Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-<h3 align="left">🛠️ Tech Stack</h3>
-<p align="left">
-  <!-- Cloud & DevOps -->
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  
-  <!-- Mobile & Frontend -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
-  
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-
-  <!-- Other -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
+### 🚧 **Active Projects**
+```diff
++ 🔭 Building Industrial 4.0 IoT Architectures
++ 👯 Open for Large-Scale IoT Collaborations
+! 💡 Exploring AI-Driven Predictive Maintenance Solutions
