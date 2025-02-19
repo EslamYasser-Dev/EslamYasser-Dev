@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/eslamyasser" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/EslamYasser" target="_blank">
+  <a href="https://github.com/EslamYasser-Dev/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=EslamYasser&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
   </a>
 </p>
